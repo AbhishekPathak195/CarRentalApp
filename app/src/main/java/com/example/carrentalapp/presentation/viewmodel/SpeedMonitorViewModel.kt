@@ -24,5 +24,4 @@ class SpeedMonitorViewModel @Inject constructor(
          }
     }
 
-
 }

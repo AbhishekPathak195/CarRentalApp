@@ -1,7 +1,7 @@
-package com.example.carrentalapp
+package com.example.carrentalapp.di
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
 
 @HiltAndroidApp
-class App: Application()
+class MyApplication: Application()
